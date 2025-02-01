@@ -1,0 +1,1 @@
+This repository contains an implementation of a Generative Adversarial Network (GAN) designed to generate high-quality images. The model consists of a generator that synthesizes realistic images and a discriminator that distinguishes between real and generated images.
